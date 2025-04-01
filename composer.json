@@ -13,8 +13,7 @@
     "require": {
         "php": ">=7.1.0",
         "psr/http-factory": "^1.0",
-        "sensio/framework-extra-bundle": "^6.1",
-        "symfony/psr-http-message-bridge": "^2.1",
+        "symfony/psr-http-message-bridge": "^6.4",
         "woohoolabs/yin": "^4.3",
 	"nyholm/psr7": "^1.4"
     },
